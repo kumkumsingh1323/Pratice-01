@@ -16,4 +16,3 @@ Author-Kumkum Singh
 </div>
 </body>
 </html>
-body {
