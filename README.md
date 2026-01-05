@@ -1,2 +1,3 @@
 # Pratice-01
 My first GitHub repository for practice.
+Author-Kumkum Singh
