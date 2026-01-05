@@ -13,10 +13,9 @@ Author-Kumkum Singh
 <h1>Computer Science Engineering</h1>
 <h2>CSE Branch</h2
 <p>Welcome to my first GitHub HTML project</p>
- </div>
+</div>
 </body>
 </html>
-## CSS Code
 body {
 background-color: #e6f2ff;
 font-family: Arial, sans-serif;
@@ -33,8 +32,7 @@ box-shadow: 0px 0px 10px gray;
 h1 {
 color: #003366;
 }
-h2 
-{
+h2 {
 color: #0066cc;
 }
 p {
